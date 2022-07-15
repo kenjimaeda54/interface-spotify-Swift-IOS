@@ -109,3 +109,7 @@ class ViewController: UIViewController {
 
 
 ```
+
+##
+## Scren Shoot
+[screnn shot](https://github.com/kenjimaeda54/interface-spotify-Swift-IOS/blob/develop/Screen%20Shot%202022-07-15%20at%2017.43.39.png)
